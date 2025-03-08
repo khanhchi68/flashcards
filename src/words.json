@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "word": "apple",
+        "translation": "яблоко"
+    },
+    {
+        "id": 2,
+        "word": "banana",
+        "translation": "банан"
+    },
+    {
+        "id": 3,
+        "word": "cherry",
+        "translation": "вишня"
+    },
+    {
+        "id": 4,
+        "word": "grape",
+        "translation": "виноград"
+    },
+    {
+        "id": 5,
+        "word": "lemon",
+        "translation": "лимон"
+    },
+    {
+        "id": 6,
+        "word": "orange",
+        "translation": "апельсин"
+    },
+    {
+        "id": 7,
+        "word": "peach",
+        "translation": "персик"
+    },
+    {
+        "id": 8,
+        "word": "pear",
+        "translation": "груша"
+    },
+    {
+        "id": 9,
+        "word": "plum",
+        "translation": "слива"
+    },
+    {
+        "id": 10,
+        "word": "strawberry",
+        "translation": "клубника"
+    }
+]
